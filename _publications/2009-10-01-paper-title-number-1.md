@@ -2,9 +2,9 @@
 title: "CHOICE: Coordinated Human-Object Interaction in Cluttered Environments for Pick-and-Place Actions"
 collection: publications
 category: manuscripts
-permalink: /publications/CHOICE
+permalink: /publications/CHOICE/
 date: 2024-12-09
-paperurl: 'https://lujintaozju.github.io/publications/CHOICE'
+paperurl: 'https://lujintaozju.github.io/publications/CHOICE/'
 citation: 'Jintao Lu, et. al. (2024). &quot; CHOICE: Coordinated Human-Object Interaction in Cluttered Environments for Pick-and-Place Actions.&quot; arXiv:2412.06702.'
 ---
 

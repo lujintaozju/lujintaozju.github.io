@@ -5,6 +5,15 @@ category: manuscripts
 permalink: /publications/CHOICE
 date: 2025-10-1
 paperurl: 'https://lujintaozju.github.io/publications/CHOICE/'
-citation: 'Jintao Lu, He Zhang, Yuting Ye, Takaaki Shiratori, Sebastian Starke, and Taku Komura. 2025. CHOICE: Coordinated Human-Object Interaction in Cluttered Environments for Pick-and-Place Actions. ACM Trans. Graph. (October 2025). https://doi.org/10.1145/3770746'
+citation: '@article{lu2025choice,
+  title={CHOICE: Coordinated human-object interaction in cluttered environments for pick-and-place actions},
+  author={Lu, Jintao and Zhang, He and Ye, Yuting and Shiratori, Takaaki and Starke, Sebastian and Komura, Taku},
+  journal={ACM Transactions on Graphics},
+  volume={45},
+  number={2},
+  pages={1--18},
+  year={2025},
+  publisher={ACM New York, NY}
+}'
 ---
-Animating human-scene interactions such as picking and placing a wide range of objects with different geometries is a challenging task, especially in a cluttered environment where interactions with complex articulated containers are involved. The main difficulty lies in the sparsity of the motion data compared to the wide variation of the objects and environments, as well as the poor availability of transition motions between different actions, increasing the complexity of the generalization to arbitrary conditions. To cope with this issue, we develop a system that tackles the interaction synthesis problem as a hierarchical goal-driven task. Firstly, we develop a bimanual scheduler that plans a set of keyframes for simultaneously controlling the two hands to efficiently achieve the pick-and-place task from an abstract goal signal such as the target object selected by the user. Next, we develop a neural implicit planner that generates hand trajectories to guide reaching and leaving motions across diverse object shapes/types and obstacle layouts. Finally, we propose a linear dynamic model for our DeepPhase controller that incorporates a Kalman filter to enable smooth transitions in the frequency domain, resulting in a more realistic and effective multi-objective control of the character. Our system can synthesize a rich variety of natural pick-and-place movements that adapt to different object geometries, container articulations, and scene layouts.
+Animating human-scene interactions such as picking and placing a wide range of objects with different geometries, especially in a cluttered environment where interactions with complex articulated containers are involved. Our system can synthesize a rich variety of natural pick-and-place movements that adapt to different object geometries, container articulations, and scene layouts.

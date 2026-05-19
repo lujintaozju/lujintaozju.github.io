@@ -1,7 +1,7 @@
 ---
 title: "CHOICE: Coordinated Human-Object Interaction in Cluttered Environments for Pick-and-Place Actions"
 collection: publications
-category: manuscripts
+category: animation_robotics
 permalink: /publications/CHOICE
 date: 2025-10-1
 venue: 'ACM Transactions on Graphics'

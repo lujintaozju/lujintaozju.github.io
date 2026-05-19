@@ -5,11 +5,11 @@ category: other
 permalink: /publications/thyroid-gan-jbhi
 date: 2022-04-01
 venue: 'IEEE Journal of Biomedical and Health Informatics'
-paperurl: ''
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9720140'
 citation: |
   @article{lu2022gan,
     title={GAN-guided deformable attention network for identifying thyroid nodules in ultrasound images},
-    author={Lu, Jintao and Ouyang, Xi and Shen, Xuejun and Liu, Tianfu and Cui, Zhiwei and Wang, Qian and Shen, Dinggang},
+    author={Lu, Jintao and Ouyang, Xi and Shen, Xueda and Liu, Tianjiao and Cui, Zhiming and Wang, Qian and Shen, Dinggang},
     journal={IEEE Journal of Biomedical and Health Informatics},
     volume={26},
     number={4},
